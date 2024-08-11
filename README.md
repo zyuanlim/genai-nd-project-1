@@ -16,5 +16,5 @@ The model is fine-tuned using QLoRA.
 
 ## Model Performance
 
-- The original (non-fine-tuned) model has an accuracy of 54.2% on the test set.
+- The original (non-fine-tuned) model has an accuracy of 53.6% on the test set.
 - The fine-tuned model has an accuracy of 100% on the test set.
